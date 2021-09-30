@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on FortalezaTec
 - 🌱 I’m currently learning HTML, CSS, Javascript, Java, and Wordpress.
 - 👯 I’m looking to collaborate on projects to obtain greater knowledge in the area of ​​technology
--  :heart: I love animais! More specifically cats :)
+-  :heart: I love animals! More specifically cats :)
 
 - :mailbox: My e-mail is monica.chiesa@universo.univates.br, let's talk! 
 
