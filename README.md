@@ -1,10 +1,7 @@
-### Welcome to my profile 👋
-
-- :school: I'm student of the systems analysis and development course at UNIVATES
-- 🔭 I’m currently working on FortalezaTec
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, Java, C#, VB.NET, and Wordpress.
-- 👯 I’m looking to collaborate on projects to obtain greater knowledge in the area of ​​technology
--  :heart: I love animals! More specifically cats :)
-
-- :mailbox: My e-mail is monica.chiesa@universo.univates.br, let's talk! 
-
+### WELCOME TO MY PROFILE!
+🎓 I have a degree in Systems Analysis and Development from UNIVATES.
+🔭 I’m currently working at FortalezaTec.
+🌱 I’m learning and working with C#, Entity Framework, PostgreSQL, Firebase, React, TypeScript, and other technologies.
+👯 I’m looking to collaborate on projects to gain more knowledge in the tech field.
+❤️ I love animals! Especially cats. 🐱
+📩 Feel free to contact me at monica.chiesa@universo.univates.br. Let’s talk!
