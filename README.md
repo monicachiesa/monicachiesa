@@ -6,7 +6,7 @@
 
 <br>  
 
-- 🔭 I’m currently working at FortalezaTec.  
+- 🔭 I’m currently working at Spassu Tecnologia.  
 
 <br>  
 
